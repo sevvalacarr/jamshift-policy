@@ -1,6 +1,6 @@
-# JamShift — Gizlilik Politikası / Privacy Policy
+# Bumpshift — Gizlilik Politikası / Privacy Policy
 
-JamShift Games tarafından yayımlanan JamShift mobil bulmaca oyununun gizlilik politikası.
+JamShift Games tarafından yayımlanan Bumpshift mobil bulmaca oyununun gizlilik politikası.
 Bu depo yalnızca politika sayfalarını içerir.
 
 - Türkçe: https://sevvalacarr.github.io/jamshift-policy/
